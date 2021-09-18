@@ -1,0 +1,11 @@
+contract8731ss8: valid
+contract12732822: wrong length
+con17361271hb11: wrong start sequence
+documentcontract: wrong length, wrong start sequence
+doc12892301sd20: wrong start sequence
+contract2727272: valid
+document: wrong length, wrong start sequence
+docnum2818110291: wrong length
+docnum123456789: valid
+docnum182381218: valid
+contract1268223: valid
